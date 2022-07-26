@@ -7,3 +7,6 @@ need to be perfect but they should be centered on the screen.
 2. 2D transformations: Implement translation, scale, and rotation. When you scale or rotate, the letters need to be transformed locally (position shouldn’t change).
 
 3. Colors: Change color of the letters using the color controls. In the end, your program needs to work as in the assignment video.
+
+
+![screenshot](https://github.com/flashomer/WebGL-and-2D-Transformations/blob/main/screenshot/Screenshot.jpg)
